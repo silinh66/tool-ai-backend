@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.9.0",
+    "body-parser": "^1.20.3",
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "node-fetch": "^2.0.0",
+    "node-fetch2": "^1.6.3",
+    "openai": "^4.76.1",
+    "puppeteer": "^23.6.1"
+  }
+}
